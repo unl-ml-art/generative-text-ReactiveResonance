@@ -18,23 +18,23 @@ The generative text with require several famous speeches from various authors.
 - An AI best for long term information digestion is prefered 
 - The model should be able to interpret scripts of speeches into repeatable patterns with interchangable variables. These variables change the minor aspects while retaining the core speech style throughout. 
 
-## Code
+## Code (WIP)
 
 Your code for generating your project:
 - training_code.py or training_code.ipynb - your training code
 - generative_code.py or generative_code.ipynb - your generation code
 
-## Results
+## Results (WIP)
 
 - Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
 
-## Technical Notes
+## Technical Notes (WIP)
 
 Any implementation details or notes we need to repeat your work. 
 - Does this code require other pip packages, software, etc?
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
-## Reference
+## Reference (WIP)
 
 References to any papers, techniques, repositories you used:
 - Papers
