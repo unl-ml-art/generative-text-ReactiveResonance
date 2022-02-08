@@ -1,4 +1,4 @@
-# Project 1 Generative Text
+# Machine Learning Project 1: Generative Text
 
 Caleb Kirilov, ckirilov2@huskers.unl.edu
 
