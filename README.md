@@ -9,7 +9,7 @@ Speech can be a weapon or a tool of silver tongues. Some cause catastrophe, and 
 I would like to combine some of the most famous speeches or excerpts from a wide range of morality with the goal of creating the most impactful speech without a human author.
 
 
-It this is too cliche, I have an even more cliche idea to auto generate quotes from these speeches in the same vein as InspiroBot
+If this is too cliche, I have an even more cliche idea to auto generate quotes from these speeches in the same vein as InspiroBot
 
 ## Model/Data
 
