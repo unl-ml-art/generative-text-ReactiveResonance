@@ -30,7 +30,7 @@ Code for training the project:
 
 ## Technical Notes (WIP)
 
-Collect an equal amount of speech data from unique sources, combine into one file, allow 600 steps of GPT2 fine tuning digestion, enter a prefix for your desired speech topic.
+Collect an equal amount of speech data from unique sources, combine into one file, allow 600 steps of GPT2 fine tuning digestion, enter a prefix for your desired speech topic, preform speech if appropriate.
 
 ## Reference (WIP)
 
