@@ -6,16 +6,16 @@ Caleb Kirilov, ckirilov2@huskers.unl.edu
 
 Speech can be a weapon or a tool of silver tongues. Some cause catastrophe, and some spark great awakenings.
 
-I would like to combine some of the most famous speeches or excerpts from a wide range of morality with the goal of creating the most impactful speech without a human author.
-
-
-If this is too cliche, I have an even more cliche idea to auto generate quotes from these speeches in the same vein as InspiroBot
+Here I have (hopefully) combined some of the most famous/imfluential speeches or excerpts from a wide range of morality. The goal is creating the most impactful speech without a human author.
 
 ## Model/Data
 
 The generative text with require several famous speeches from various authors.
-- A few names that come up at first are Ghandi, MLK Jr., Timothy Mcvay, Abraham Lincoln, Jesus, FDR, Carl Sagan (speaking to congress)
-- An AI best for long term information digestion is prefered 
+
+-The authors collected for this project in roughly even manner are: Ghandi, MLK, Jesus, Hitler, Idi Amin, Nelson Mandela, Timothy Mcveigh, Carl Sagan, Sadam Hussein.
+
+- GPT2 with fine tuning (an AI best for long term information digestion was the preference)
+
 - The model should be able to interpret scripts of speeches into repeatable patterns with interchangable variables. These variables change the minor aspects while retaining the core speech style throughout. 
 
 ## Code (WIP)
