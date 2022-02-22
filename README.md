@@ -20,24 +20,18 @@ The generative text with require several famous speeches from various authors.
 
 ## Code (WIP)
 
-Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+Code for training the project:
+- ckirilov-gpt2-generate-finetune.ipynb - Generation code
 
 ## Results (WIP)
 
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+- ckirilov_Speeches_jupyterLab.pdf
+- Documents the entire generation and fine tuning process with examples at every 10 step milestone.
 
 ## Technical Notes (WIP)
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Collect an equal amount of speech data from unique sources, combine into one file, allow 600 steps of GPT2 fine tuning digestion, enter a prefix for your desired speech topic.
 
 ## Reference (WIP)
 
-References to any papers, techniques, repositories you used:
-- Papers
-  - [This is a paper](this_is_the_link.pdf)
-- Repositories
-- Blog posts
+forked from https://github.com/unl-ml-art/generative-text
